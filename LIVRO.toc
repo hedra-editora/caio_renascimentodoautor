@@ -1,0 +1,26 @@
+\select@language {brazilian}
+\hyphenpenalty =10000\thispagestyle {empty}
+\contentsline {chapter}{Nota preliminar \vspace \bigskipamount }{7}
+\contentsline {chapter}{\relax \fontsize {14.4}{18}\selectfont \textsc {\MakeTextLowercase {AUTORIA E HETERONÍMIA\\ NA MODERNA TEORIA DA LITERATURA}}}{11}
+\contentsline {section}{I. Sacrificar o sujeito -- emancipar a linguagem}{11}
+\contentsline {section}{II. A luta com o sentido}{19}
+\contentsline {section}{III. Escrever é heteronimizar \vspace \medskipamount }{29}
+\contentsline {chapter}{\relax \fontsize {14.4}{18}\selectfont \textsc {\MakeTextLowercase {DEPÕE-SE~UM~REI,~A~PATERNIDADE~DO~POEMA:}}\\ {\relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip \emph {``Chuva Oblíqua'' e a forma heteronímica em Fernando Pessoa}}}{37}
+\contentsline {section}{I. Uma voz em surdina ou o jogo da escrita}{37}
+\contentsline {section}{II. O sujeito plasmado em linguagem}{49}
+\contentsline {section}{III. Eu sou a tela \vspace \medskipamount }{55}
+\contentsline {chapter}{\relax \fontsize {14.4}{18}\selectfont \textsc {\MakeTextLowercase {AUTOR, AUTORIA E AUTORIDADE:}}\\ {\relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip \emph {Argumentação e ideologia em Roland Barthes}}}{63}
+\contentsline {section}{I. A argumentação}{64}
+\contentsline {section}{II. Quem é o autor?}{68}
+\contentsline {section}{III. De que é feita a escritura?}{75}
+\contentsline {section}{IV. O império do leitor}{78}
+\contentsline {section}{V. Pela rota mallarmaica}{81}
+\contentsline {section}{VI. Autoria e autoridade: fora os rinocerontes! \vspace \medskipamount }{86}
+\contentsline {chapter}{\relax \fontsize {14.4}{18}\selectfont \textsc {\MakeTextLowercase {DISFARCE E FRAUDE AUTORAL:}}\\ {\relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip \emph {Memória, testemunho e ficção}}}{95}
+\contentsline {section}{I. Do disfarce autoral}{95}
+\contentsline {section}{II. Da fraude autoral}{98}
+\contentsline {section}{III. Os mundos de mentira e as reações à sua descoberta}{103}
+\contentsline {section}{IV. Revendo o lugar do sujeito empírico da escrita}{106}
+\contentsline {section}{V. Para além do risco romântico \vspace \bigskipamount }{115}
+\contentsline {chapter}{Bibliografia}{123}
+\contentsfinish 
