@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2017.10.31)  31 OCT 2018 17:32
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2017.10.31)  1 NOV 2018 15:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1617,27 +1617,13 @@ Overfull \vbox (17.10797pt too high) has occurred while \output is active []
 Overfull \vbox (14.60803pt too high) has occurred while \output is active []
 
 
-
-Class memoir Warning: The material used in the headers is too large
-(28.99998pt) for the given head height (14.5pt), it is recommended to
-either increase the head height or redesign the header
-(in both cases you will find help in the memoir manual). on input line 108.
-
-
-Overfull \vbox (14.49998pt too high) has occurred while \output is active []
-
-
 [13]
 Overfull \vbox (6.396pt too high) has occurred while \output is active []
 
  [14]
 Overfull \vbox (5.108pt too high) has occurred while \output is active []
 
-
-Overfull \vbox (14.49998pt too high) has occurred while \output is active []
-
-
-[15]
+ [15]
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 169.
 Unknown feature `protrusion=default' in font `Linux Libertine O'.
@@ -1646,29 +1632,19 @@ Unknown feature `expansion=default' in font `Linux Libertine O'.
 Overfull \vbox (12.95012pt too high) has occurred while \output is active []
 
 
-[16]
-Overfull \vbox (14.49998pt too high) has occurred while \output is active []
-
-
-[17] [18]
+[16] [17] [18]
 Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
 Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
-
-Overfull \vbox (17.367pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (14.49998pt too high) has occurred while \output is active []
-
-
-[19] [20]
+ [19] [20]
 Overfull \vbox (14.60797pt too high) has occurred while \output is active []
 
 
-Overfull \vbox (14.49998pt too high) has occurred while \output is active []
+[21]
+Overfull \vbox (10.70401pt too high) has occurred while \output is active []
 
 
-[21] [22]
-Overfull \vbox (14.49998pt too high) has occurred while \output is active []
+[22]
+Overfull \vbox (2.60405pt too high) has occurred while \output is active []
 
 
 [23]
@@ -1678,18 +1654,9 @@ Overfull \vbox (10.01198pt too high) has occurred while \output is active []
 [24]
 Overfull \vbox (7.608pt too high) has occurred while \output is active []
 
-
-Overfull \vbox (14.49998pt too high) has occurred while \output is active []
-
-
-[25]
-Overfull \hbox (29.524pt too wide) in paragraph at lines 471--483
-[]\TU/LinuxLibertineO(0)/m/n/12 Esses postulados são estranhos à crítica anti-i
-ntencionalista.
- []
-
+ [25]
 [26]
-Underfull \hbox (badness 3179) in paragraph at lines 520--526
+Underfull \hbox (badness 3179) in paragraph at lines 521--527
 []\TU/LinuxLibertineO(0)/m/n/12 Entre seus trabalhos relevantes para esse tema,
 
  []
@@ -1698,48 +1665,32 @@ Underfull \hbox (badness 3179) in paragraph at lines 520--526
 Overfull \vbox (3.75208pt too high) has occurred while \output is active []
 
 
-Overfull \vbox (14.49998pt too high) has occurred while \output is active []
-
-
 [27]
 Overfull \vbox (19.608pt too high) has occurred while \output is active []
 
 
-[28]
-Overfull \vbox (14.49998pt too high) has occurred while \output is active []
-
-
-[29] [30]
+[28] [29] [30]
 Overfull \vbox (17.108pt too high) has occurred while \output is active []
 
 
-Overfull \vbox (14.49998pt too high) has occurred while \output is active []
-
-
-[31] [32]
-Overfull \vbox (14.49998pt too high) has occurred while \output is active []
-
-
-[33]
+[31] [32] [33]
 Overfull \vbox (10.10797pt too high) has occurred while \output is active []
 
 
-[34]
-Overfull \vbox (14.49998pt too high) has occurred while \output is active []
-
-
-[35] [36
+[34] [35] [36
 
 ]
+Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
+Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
 Unknown feature `protrusion=default' in font `Linux Libertine O'.
 Unknown feature `expansion=default' in font `Linux Libertine O'.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 762.
- [37]
-Overfull \vbox (10.20746pt too high) has occurred while \output is active []
+(Font)              <7> on input line 764.
+ [37] [38]
+Overfull \vbox (2.19096pt too high) has occurred while \output is active []
 
 
-[38] [39] [40] [41]
+[39] [40] [41]
 Overfull \vbox (19.60797pt too high) has occurred while \output is active []
 
 
@@ -1751,7 +1702,7 @@ Overfull \vbox (21.10797pt too high) has occurred while \output is active []
 Overfull \vbox (5.108pt too high) has occurred while \output is active []
 
  [44]
-Overfull \vbox (3.89603pt too high) has occurred while \output is active []
+Overfull \vbox (3.00803pt too high) has occurred while \output is active []
 
 
 [45]
@@ -1770,116 +1721,113 @@ Overfull \vbox (19.73112pt too high) has occurred while \output is active []
 Overfull \vbox (8.00797pt too high) has occurred while \output is active []
 
 
-[51] [52] [53] [54] [55] [56] [57] [58]
-Overfull \vbox (17.552pt too high) has occurred while \output is active []
+[51] [52] [53] [54] [55] [56] [57] [58] [59]
+Overfull \vbox (14.00403pt too high) has occurred while \output is active []
 
 
-[59]
-Overfull \vbox (18.608pt too high) has occurred while \output is active []
+[60]
+Overfull \vbox (7.608pt too high) has occurred while \output is active []
+
+ [61]
+Overfull \vbox (19.10803pt too high) has occurred while \output is active []
 
 
-[60] [61] [62] [63
+[62] [63] [64
 
-]
+] [65]
 Overfull \vbox (14.33098pt too high) has occurred while \output is active []
 
 
-[64]
+[66]
 Overfull \vbox (15.90399pt too high) has occurred while \output is active []
 
 
-[65] [66] [67] [68] [69]
+[67] [68] [69] [70] [71]
 Overfull \vbox (12.65598pt too high) has occurred while \output is active []
 
 
-[70] [71] [72]
+[72] [73] [74]
 Overfull \vbox (16.85597pt too high) has occurred while \output is active []
 
 
-[73]
+[75]
 Overfull \vbox (18.396pt too high) has occurred while \output is active []
 
 
-[74] [75]
+[76] [77]
 Overfull \vbox (10.156pt too high) has occurred while \output is active []
 
 
-[76]
+[78]
 Overfull \vbox (18.452pt too high) has occurred while \output is active []
 
 
-[77] [78]
+[79] [80]
 Overfull \vbox (7.608pt too high) has occurred while \output is active []
 
- [79]
+ [81]
 Overfull \vbox (2.45601pt too high) has occurred while \output is active []
 
 
-[80] [81] [82]
+[82] [83] [84]
 Overfull \vbox (7.608pt too high) has occurred while \output is active []
 
- [83]
+ [85]
 Overfull \vbox (2.65604pt too high) has occurred while \output is active []
 
 
-[84]
+[86]
 Overfull \vbox (19.65598pt too high) has occurred while \output is active []
 
 
-[85] [86]
+[87] [88]
 Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
 Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
 
-Underfull \hbox (badness 1043) in paragraph at lines 2364--2371
+Underfull \hbox (badness 1043) in paragraph at lines 2334--2341
 \TU/LinuxLibertineO(0)/m/n/12 mado num sistema educacional pragmatista, esse jo
 -
  []
 
-[87]
+[89]
 Overfull \vbox (10.01198pt too high) has occurred while \output is active []
 
 
-[88] [89] [90]
+[90] [91] [92]
 Overfull \vbox (12.35408pt too high) has occurred while \output is active []
 
 
-[91]
+[93]
 Overfull \vbox (8.50407pt too high) has occurred while \output is active []
 
 
-[92]
+[94]
 Overfull \vbox (14.10403pt too high) has occurred while \output is active []
 
 
-[93] [94]
+[95] [96]
 Unknown feature `protrusion=default' in font `Linux Libertine O'.
 Unknown feature `expansion=default' in font `Linux Libertine O'.
- [95
+ [97
 
-]
-Underfull \hbox (badness 1014) in paragraph at lines 2613--2613
-\TU/LinuxLibertineO(0)/m/n/10 Century English Coterie Literature”, \TU/LinuxLib
-ertineO(0)/m/it/10 Essays in Literature\TU/LinuxLibertineO(0)/m/n/10 , n. 21,
- []
-
-[96]
+] [98]
 Overfull \vbox (14.14055pt too high) has occurred while \output is active []
 
 
-[97]
-Underfull \hbox (badness 1642) in paragraph at lines 2679--2679
+[99]
+Underfull \hbox (badness 1642) in paragraph at lines 2651--2651
 []\TU/LinuxLibertineO(0)/m/n/10 6. []Dada a sua pouca repercussão no Brasil, op
 tei por rese-
  []
 
 
-Underfull \hbox (badness 4967) in paragraph at lines 2679--2679
+Underfull \hbox (badness 4967) in paragraph at lines 2651--2651
 \TU/LinuxLibertineO(0)/m/n/10 was fiction, author confesses” [3 mar. 2008], dis
 ponível em
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2679--2679
+Underfull \hbox (badness 10000) in paragraph at lines 2651--2651
 \TU/LinuxLibertineO(0)/m/n/10 <http://www.theguardian.com/books/2008/mar/03/new
 s.film>,
  []
@@ -1888,182 +1836,97 @@ s.film>,
 Overfull \vbox (0.4065pt too high) has occurred while \output is active []
 
 
-[98] [99] [100]
-Underfull \hbox (badness 1484) in paragraph at lines 2812--2812
+[100] [101] [102]
+Underfull \hbox (badness 1484) in paragraph at lines 2784--2784
 []\TU/LinuxLibertineO(0)/m/n/10 8. []Para uma resenha detalhada e positiva do l
 ivro, anterior
  []
 
 
-Underfull \hbox (badness 1142) in paragraph at lines 2812--2812
+Underfull \hbox (badness 1142) in paragraph at lines 2784--2784
 \TU/LinuxLibertineO(0)/m/n/10 à descoberta da fraude, cf. Michiko Kakutani, “Ho
 wever Mean
  []
 
 
-Overfull \hbox (60.69pt too wide) in paragraph at lines 2812--2812
-\TU/LinuxLibertineO(0)/m/n/10 <http://www.nytimes.com/2008/02/26/books/26kaku.h
-tml?pagewanted=all&_r=0>,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2812--2812
-\TU/LinuxLibertineO(0)/m/n/10 acesso em 22 nov. 2017. Ainda no \TU/LinuxLiberti
-neO(0)/m/it/10 The New York Times\TU/LinuxLibertineO(0)/m/n/10 ,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2812--2812
-\TU/LinuxLibertineO(0)/m/n/10 a revelação do embuste, publicada na semana segui
-nte,
- []
-
-
-Underfull \hbox (badness 4805) in paragraph at lines 2812--2812
-\TU/LinuxLibertineO(0)/m/n/10 pode ser consultada em: Motoko Rich, “Gang Memoir
-, Tur-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2812--2812
-\TU/LinuxLibertineO(0)/m/n/10 ning Page, Is Pure Fiction” [4 mar. 2008], dispon
-ível em
- []
-
-
-Overfull \hbox (31.94998pt too wide) in paragraph at lines 2812--2812
-\TU/LinuxLibertineO(0)/m/n/10 <http://www.nytimes.com/2008/03/04/books/04fake.h
-tml?pagewanted=all>,
+Underfull \hbox (badness 1983) in paragraph at lines 2784--2784
+\TU/LinuxLibertineO(0)/m/n/10 <https://nyti.ms/2AHzTYj>, acesso em 22 nov. 2017
+. Ainda no
  []
 
 
 Overfull \vbox (7.76245pt too high) has occurred while \output is active []
-
-
-[101] [102]
-Underfull \hbox (badness 4739) in paragraph at lines 2854--2854
-\TU/LinuxLibertineO(0)/m/n/10 consequences’ memoir untrue” [3 mai. 2008], dispo
-nível em
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2854--2854
-\TU/LinuxLibertineO(0)/m/n/10 <\TU/LinuxLibertineO(0)/m/it/10 http://usatoday30
-.usatoday.com/life/books/news/2008-03-04-memoir-
- []
-
-
-Overfull \vbox (16.28116pt too high) has occurred while \output is active []
 
 
 [103]
-Underfull \hbox (badness 10000) in paragraph at lines 2888--2888
-[]\TU/LinuxLibertineO(0)/m/n/10 11. []Cf. Meghan O´Rourke, “Lies and Conse-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2888--2888
-\TU/LinuxLibertineO(0)/m/n/10 quences: Why are book editors so bad at spot-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2888--2888
-\TU/LinuxLibertineO(0)/m/n/10 ting fake memoirs?” [4 mar. 2008], disponível em:
-
- []
-
-
-Overfull \hbox (126.18pt too wide) in paragraph at lines 2888--2888
-\TU/LinuxLibertineO(0)/m/n/10 <http://www.slate.com/articles/news_and_politics/
-recycled/2008/03/lies_and_consequences.html>,
- []
-
-
-Overfull \vbox (19.76245pt too high) has occurred while \output is active []
+Overfull \vbox (10.16245pt too high) has occurred while \output is active []
 
 
 [104]
-Overfull \vbox (3.70964pt too high) has occurred while \output is active []
+Underfull \hbox (badness 2644) in paragraph at lines 2827--2827
+[]\TU/LinuxLibertineO(0)/m/n/10 10. []Outro artigo consultado sobre a repercuss
+ão da fraude
+ []
 
 
-[105] [106] [107] [108] [109] [110] [111] [112]
+Underfull \hbox (badness 2495) in paragraph at lines 2827--2827
+\TU/LinuxLibertineO(0)/m/n/10 autoral de Seltzer (Jones) é Carol Memmott, “Auth
+or´s ‘Love
+ []
+
+
+Overfull \vbox (15.41742pt too high) has occurred while \output is active []
+
+
+[105] [106]
+Overfull \vbox (9.36246pt too high) has occurred while \output is active []
+
+
+[107] [108] [109] [110] [111] [112] [113]
+Overfull \vbox (7.76248pt too high) has occurred while \output is active []
+
+
+[114]
 Overfull \vbox (7.76245pt too high) has occurred while \output is active []
 
 
-[113] [114] [115]
-Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
-Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
-
-Overfull \vbox (12.99016pt too high) has occurred while \output is active []
-
-
-[116]
-Overfull \vbox (18.1625pt too high) has occurred while \output is active []
+[115] [116]
+Overfull \vbox (14.03741pt too high) has occurred while \output is active []
 
 
 [117]
-Overfull \vbox (9.40625pt too high) has occurred while \output is active []
-
-
-[118] [119]
-Overfull \vbox (12.56247pt too high) has occurred while \output is active []
-
-
-[120] [121] [122
-
-] [123] [124]
-Underfull \hbox (badness 2970) in paragraph at lines 3550--3553
-[]\TU/LinuxLibertineO(0)/m/sc/12 ezell\TU/LinuxLibertineO(0)/m/n/12 , Margaret 
-J. M. “Reading Pseudonyms in
- []
-
-[125]
 Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
 Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
- [126] [127]
-Overfull \hbox (19.5027pt too wide) in paragraph at lines 3683--3686
+
+Overfull \vbox (7.80624pt too high) has occurred while \output is active []
+
+
+[118]
+Overfull \vbox (18.2063pt too high) has occurred while \output is active []
+
+
+[119] [120] [121]
+Overfull \vbox (11.45651pt too high) has occurred while \output is active []
+
+
+[122] [123] [124
+
+] [125]
+Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
+Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
+ [126]
+Overfull \hbox (11.37202pt too wide) in paragraph at lines 3526--3529
+[]\TU/LinuxLibertineO(0)/m/sc/12 ezell\TU/LinuxLibertineO(0)/m/n/12 , Margaret 
+J. M. “Reading Pseudonyms in Seventeenth-
+ []
+
+[127] [128] [129] [130]
+Overfull \hbox (1.5027pt too wide) in paragraph at lines 3659--3662
 []\TU/LinuxLibertineO(0)/m/sc/12 picchio\TU/LinuxLibertineO(0)/m/n/12 , Luciana
  Stegagno. “Chuva Oblíqua: dall’Infinito
  []
 
-[128] [129]
-Overfull \hbox (72.72086pt too wide) in paragraph at lines 3755--3758
-[]\TU/LinuxLibertineO(0)/m/n/10.95 Disponível em: <http://www.theguardian.com/b
-ooks/2008/mar/03/news.film>.
- []
-
-
-Overfull \hbox (162.686pt too wide) in paragraph at lines 3764--3767
-[]\TU/LinuxLibertineO(0)/m/n/10.95 Disponível em: <http://www.nytimes.com/2008/
-02/26/books/26kaku.html?pagewanted=all&_r=0>.
- []
-
-
-Overfull \hbox (42.44408pt too wide) in paragraph at lines 3773--3776
-[]\TU/LinuxLibertineO(0)/m/n/10.95 Disponível em: <http://usatoday30.usatoday.c
-om/life/books/news/2008-
- []
-
-[130]
-Overfull \hbox (234.39752pt too wide) in paragraph at lines 3782--3785
-[]\TU/LinuxLibertineO(0)/m/n/10.95 Disponível em: <http://www.slate.com/article
-s/news_and_politics/recycled/2008/03/lies_and_consequences.html>.
- []
-
-
-Overfull \hbox (131.21573pt too wide) in paragraph at lines 3790--3793
-[]\TU/LinuxLibertineO(0)/m/n/10.95 Disponível em: <http://www.nytimes.com/2008/
-03/04/books/04fake.html?pagewanted=all>.
- []
-
-)) [131]
-
-Class memoir Warning: The material used in the headers is too large
-(28.99998pt) for the given head height (14.5pt), it is recommended to
-either increase the head height or redesign the header
-(in both cases you will find help in the memoir manual). on input line 85.
-
-
+[131] [132])) [133] 
 AED: lastpage setting LastPage
 \openout2 = `PUBLICIDADE.aux'.
 
@@ -2074,7 +1937,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--8
 
 Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
 Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
-[132
+[134
 
 
 
@@ -2082,10 +1945,10 @@ Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
 ]
 Unknown feature `protrusion=default' in font `Linux Libertine O'.
 Unknown feature `expansion=default' in font `Linux Libertine O'.
- [133]
+ [135]
 Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
 Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
- [134] [135]) [136
+ [136] [137]) [138
 
 
 ]
@@ -2094,12 +1957,12 @@ Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
 
  (./LIVRO.aux (./INPUTS.aux) (./PUBLICIDADE.aux)) ) 
 Here is how much of TeX's memory you used:
- 26202 strings out of 492998
- 481123 string characters out of 6139960
- 705834 words of memory out of 5000000
- 29698 multiletter control sequences out of 15000+600000
- 544000 words of font info for 108 fonts, out of 8000000 for 9000
+ 26204 strings out of 492998
+ 481294 string characters out of 6139960
+ 706836 words of memory out of 5000000
+ 29699 multiletter control sequences out of 15000+600000
+ 544008 words of font info for 109 fonts, out of 8000000 for 9000
  1372 hyphenation exceptions out of 8191
- 48i,12n,86p,10384b,599s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 48i,12n,86p,10384b,495s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on LIVRO.xdv (136 pages, 2416380 bytes).
+Output written on LIVRO.xdv (138 pages, 2412704 bytes).
