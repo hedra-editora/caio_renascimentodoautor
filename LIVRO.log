@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2017.10.31)  1 NOV 2018 15:49
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2017.10.31)  1 NOV 2018 18:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1601,12 +1601,11 @@ Overfull \hbox (10.4944pt too wide) in paragraph at lines 8--8
 ]
 Unknown feature `protrusion=default' in font `Linux Libertine O'.
 Unknown feature `expansion=default' in font `Linux Libertine O'.
- [7] [8]) (./ORIGINAL.tex [9] [10
-
-]
 Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
 Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
- [11]
+ [7] [8]) (./ORIGINAL.tex [9] [10
+
+] [11]
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 66.
 
