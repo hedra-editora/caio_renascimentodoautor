@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2017.10.31)  5 NOV 2018 15:33
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2017.10.31)  5 NOV 2018 16:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1650,26 +1650,25 @@ Overfull \vbox (10.01198pt too high) has occurred while \output is active []
 Overfull \vbox (7.608pt too high) has occurred while \output is active []
 
  [25]
+Overfull \vbox (19.248pt too high) has occurred while \output is active []
+
+
 [26]
 Underfull \hbox (badness 3179) in paragraph at lines 521--527
 []\TU/LinuxLibertineO(0)/m/n/12 Entre seus trabalhos relevantes para esse tema,
 
  []
 
-
-Overfull \vbox (3.75208pt too high) has occurred while \output is active []
-
-
 [27]
 Overfull \vbox (19.608pt too high) has occurred while \output is active []
 
 
-[28] [29] [30]
+[28] [29]
+Overfull \vbox (12.10803pt too high) has occurred while \output is active []
+
+
+[30] [31] [32] [33]
 Overfull \vbox (17.108pt too high) has occurred while \output is active []
-
-
-[31] [32] [33]
-Overfull \vbox (10.10797pt too high) has occurred while \output is active []
 
 
 [34] [35] [36
@@ -1991,10 +1990,10 @@ Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
 Here is how much of TeX's memory you used:
  26184 strings out of 492998
  480643 string characters out of 6139960
- 705503 words of memory out of 5000000
+ 706503 words of memory out of 5000000
  29688 multiletter control sequences out of 15000+600000
  543903 words of font info for 103 fonts, out of 8000000 for 9000
  1372 hyphenation exceptions out of 8191
  48i,14n,86p,10384b,491s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on LIVRO.xdv (142 pages, 2346456 bytes).
+Output written on LIVRO.xdv (142 pages, 2346216 bytes).
