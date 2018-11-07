@@ -15,7 +15,7 @@
 \contentsline {section}{De que é feita a escritura?}{77}
 \contentsline {section}{O império do leitor}{80}
 \contentsline {section}{Pela rota mallarmaica}{83}
-\contentsline {section}{Autoria e autoridade: fora os rinocerontes! \vspace \medskipamount }{88}
+\contentsline {section}{Autoria e autoridade: fora os rinocerontes! \vspace \medskipamount }{87}
 \contentsline {chapter}{\relax \fontsize {14.4}{18}\selectfont \textsc {\MakeTextLowercase {DISFARCE E FRAUDE AUTORAL:}}\\ {\relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip \emph {Memória, testemunho e ficção}}}{97}
 \contentsline {section}{Do disfarce autoral}{97}
 \contentsline {section}{Da fraude autoral}{100}
