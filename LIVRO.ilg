@@ -1,6 +1,6 @@
 This is makeindex, version 2.15 [TeX Live 2017] (kpathsea + Thai support).
-Scanning input file LIVRO.idx....done (8 entries accepted, 0 rejected).
-Sorting entries....done (22 comparisons).
-Generating output file LIVRO.ind....done (5 lines written, 0 warnings).
+Scanning input file LIVRO.idx....done (364 entries accepted, 0 rejected).
+Sorting entries......done (3283 comparisons).
+Generating output file LIVRO.ind....done (175 lines written, 0 warnings).
 Output written in LIVRO.ind.
 Transcript written in LIVRO.ilg.
