@@ -1,3 +1,4 @@
+\vskip -15pt
 \select@language {brazilian}
 \hyphenpenalty =10000\thispagestyle {empty}
 \contentsline {chapter}{Nota preliminar \vspace \bigskipamount }{7}
@@ -23,4 +24,5 @@
 \contentsline {section}{Revendo o lugar do sujeito empírico da escrita}{110}
 \contentsline {section}{Para além do risco romântico \vspace \bigskipamount }{120}
 \contentsline {chapter}{Bibliografia}{129}
+\contentsline {chapter}{Índice onomástico}{139}
 \contentsfinish 

@@ -242,10 +242,13 @@ INPUT /home/editorial/texmf/tex/versos.sty
 INPUT /home/editorial/texmf/tex/versos.sty
 INPUT gitrevisioninfo.sty
 INPUT gitrevisioninfo.sty
+INPUT /usr/share/texmf-dist/tex/latex/tools/afterpage.sty
+INPUT /usr/share/texmf-dist/tex/latex/tools/afterpage.sty
 INPUT /usr/share/texmf-dist/tex/latex/imakeidx/imakeidx.sty
 INPUT /usr/share/texmf-dist/tex/latex/imakeidx/imakeidx.sty
 INPUT /usr/share/texmf-dist/tex/latex/tools/multicol.sty
 INPUT /usr/share/texmf-dist/tex/latex/tools/multicol.sty
+OUTPUT LIVRO.idx
 OUTPUT LIVRO.idx
 INPUT /home/editorial/texmf/tex/commands.sty
 INPUT /home/editorial/texmf/tex/commands.sty
