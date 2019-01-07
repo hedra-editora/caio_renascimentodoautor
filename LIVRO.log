@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2017.10.31)  7 JAN 2019 13:38
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2017.10.31)  7 JAN 2019 13:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2075,7 +2075,7 @@ Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
 Here is how much of TeX's memory you used:
  26461 strings out of 492998
  484947 string characters out of 6139960
- 713537 words of memory out of 5000000
+ 713525 words of memory out of 5000000
  29946 multiletter control sequences out of 15000+600000
  543903 words of font info for 103 fonts, out of 8000000 for 9000
  1372 hyphenation exceptions out of 8191
