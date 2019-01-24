@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2017.10.31)  8 JAN 2019 14:35
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2017.10.31)  24 JAN 2019 12:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1605,6 +1605,10 @@ Unknown feature `protrusion=default' in font `Linux Libertine O'.
 Unknown feature `expansion=default' in font `Linux Libertine O'.
 Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
 Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `lmtt' (encoding: TU).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
  [1
 
 ]
@@ -1927,12 +1931,7 @@ Overfull \vbox (8.73096pt too high) has occurred while \output is active []
 Overfull \vbox (7.10797pt too high) has occurred while \output is active []
 
 
-[101]
-Underfull \hbox (badness 3460) in paragraph at lines 2635--2650
-[]\TU/LinuxLibertineO(0)/m/n/12 Tamanha repercussão, se bem considerada, não
- []
-
-[102]
+[101] [102]
 Overfull \vbox (19.60797pt too high) has occurred while \output is active []
 
 
@@ -2070,12 +2069,12 @@ Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
 
  (./LIVRO.aux (./INPUTS.aux) (./PUBLICIDADE.aux)) ) 
 Here is how much of TeX's memory you used:
- 26461 strings out of 492998
- 484947 string characters out of 6139960
- 713525 words of memory out of 5000000
- 29946 multiletter control sequences out of 15000+600000
- 543903 words of font info for 103 fonts, out of 8000000 for 9000
+ 26476 strings out of 492998
+ 485224 string characters out of 6139960
+ 713862 words of memory out of 5000000
+ 29954 multiletter control sequences out of 15000+600000
+ 543935 words of font info for 107 fonts, out of 8000000 for 9000
  1372 hyphenation exceptions out of 8191
- 48i,14n,86p,10384b,602s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 48i,12n,86p,10384b,602s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on LIVRO.xdv (148 pages, 2407620 bytes).
+Output written on LIVRO.xdv (148 pages, 2486164 bytes).
