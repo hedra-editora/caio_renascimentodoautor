@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2017.10.31)  24 JAN 2019 12:45
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2017.10.31)  30 JAN 2019 14:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2010,24 +2010,24 @@ Overfull \vbox (16.65201pt too high) has occurred while \output is active []
 [125] [126] [127] [128
 
 ] [129] [130] [131]
-Overfull \hbox (11.37202pt too wide) in paragraph at lines 3489--3492
+Overfull \hbox (11.37202pt too wide) in paragraph at lines 3490--3493
 []\TU/LinuxLibertineO(0)/m/sc/12 ezell\TU/LinuxLibertineO(0)/m/n/12 , Margaret 
 J. M. “Reading Pseudonyms in Seventeenth-
  []
 
 [132] [133] [134]
-Overfull \hbox (1.5027pt too wide) in paragraph at lines 3622--3625
+Overfull \hbox (1.5027pt too wide) in paragraph at lines 3623--3626
 []\TU/LinuxLibertineO(0)/m/sc/12 picchio\TU/LinuxLibertineO(0)/m/n/12 , Luciana
  Stegagno. “Chuva Oblíqua: dall’Infinito
  []
 
 [135] [136]
-Underfull \hbox (badness 10000) in paragraph at lines 3680--3681
+Underfull \hbox (badness 10000) in paragraph at lines 3681--3682
 
  []
 
 
-Overfull \hbox (4.8016pt too wide) in paragraph at lines 3708--3711
+Overfull \hbox (4.8016pt too wide) in paragraph at lines 3709--3712
 \TU/LinuxLibertineO(0)/m/n/12 Disponível em: <https://nyti.ms/2QgwLYV>. Acesso
  []
 
@@ -2077,4 +2077,4 @@ Here is how much of TeX's memory you used:
  1372 hyphenation exceptions out of 8191
  48i,12n,86p,10384b,602s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on LIVRO.xdv (148 pages, 2486164 bytes).
+Output written on LIVRO.xdv (148 pages, 2486196 bytes).
