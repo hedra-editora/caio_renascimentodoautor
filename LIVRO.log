@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2017.10.31)  30 JAN 2019 15:01
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2017.10.31)  25 MAR 2019 14:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1839,7 +1839,7 @@ Overfull \vbox (10.108pt too high) has occurred while \output is active []
 Overfull \vbox (3.952pt too high) has occurred while \output is active []
 
  [79]
-Underfull \hbox (badness 1087) in paragraph at lines 2016--2018
+Underfull \hbox (badness 1087) in paragraph at lines 2015--2017
 \TU/LinuxLibertineO(0)/m/n/12 do fenômeno literário. E que aponta, surpreendent
 e-
  []
@@ -1877,7 +1877,7 @@ Overfull \vbox (7.47597pt too high) has occurred while \output is active []
 
 
 [88]
-Underfull \hbox (badness 1043) in paragraph at lines 2300--2307
+Underfull \hbox (badness 1043) in paragraph at lines 2299--2306
 \TU/LinuxLibertineO(0)/m/n/12 mado num sistema educacional pragmatista, esse jo
 -
  []
@@ -1890,10 +1890,14 @@ Overfull \vbox (14.60803pt too high) has occurred while \output is active []
 Overfull \vbox (10.00406pt too high) has occurred while \output is active []
 
 
-[93] [94] [95] [96
+[93]
+Overfull \vbox (4.95604pt too high) has occurred while \output is active []
+
+
+[94] [95] [96
 
 ] [97]
-Underfull \hbox (badness 1735) in paragraph at lines 2525--2535
+Underfull \hbox (badness 1735) in paragraph at lines 2524--2534
 []\TU/LinuxLibertineO(0)/m/n/12 Analogamente, a crônica de costumes, de verve
  []
 
@@ -1906,19 +1910,19 @@ Overfull \vbox (21.156pt too high) has occurred while \output is active []
 
 
 [99]
-Underfull \hbox (badness 1642) in paragraph at lines 2609--2609
+Underfull \hbox (badness 1642) in paragraph at lines 2608--2608
 []\TU/LinuxLibertineO(0)/m/n/10 6. []Dada a sua pouca repercussão no Brasil, op
 tei por rese-
  []
 
 
-Underfull \hbox (badness 4967) in paragraph at lines 2609--2609
+Underfull \hbox (badness 4967) in paragraph at lines 2608--2608
 \TU/LinuxLibertineO(0)/m/n/10 was fiction, author confesses” [3 mar. 2008], dis
 ponível em
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2609--2609
+Underfull \hbox (badness 10000) in paragraph at lines 2608--2608
 \TU/LinuxLibertineO(0)/m/n/10 <http://www.theguardian.com/books/2008/mar/03/new
 s.film>,
  []
@@ -1936,19 +1940,19 @@ Overfull \vbox (19.60797pt too high) has occurred while \output is active []
 
 
 [103]
-Underfull \hbox (badness 1484) in paragraph at lines 2742--2742
+Underfull \hbox (badness 1484) in paragraph at lines 2741--2741
 []\TU/LinuxLibertineO(0)/m/n/10 8. []Para uma resenha detalhada e positiva do l
 ivro, anterior
  []
 
 
-Underfull \hbox (badness 1142) in paragraph at lines 2742--2742
+Underfull \hbox (badness 1142) in paragraph at lines 2741--2741
 \TU/LinuxLibertineO(0)/m/n/10 à descoberta da fraude, cf. Michiko Kakutani, “Ho
 wever Mean
  []
 
 
-Underfull \hbox (badness 1983) in paragraph at lines 2742--2742
+Underfull \hbox (badness 1983) in paragraph at lines 2741--2741
 \TU/LinuxLibertineO(0)/m/n/10 <https://nyti.ms/2AHzTYj>, acesso em 22 nov. 2017
 . Ainda no
  []
@@ -1958,7 +1962,7 @@ Overfull \vbox (9.60797pt too high) has occurred while \output is active []
 
 
 [105]
-Underfull \hbox (badness 4739) in paragraph at lines 2781--2781
+Underfull \hbox (badness 4739) in paragraph at lines 2780--2780
 \TU/LinuxLibertineO(0)/m/n/10 consequences’ memoir untrue” [3 mai. 2008], dispo
 nível em
  []
@@ -1972,7 +1976,7 @@ Overfull \vbox (7.60797pt too high) has occurred while \output is active []
 
 
 [108] [109]
-Underfull \hbox (badness 1147) in paragraph at lines 2875--2882
+Underfull \hbox (badness 1147) in paragraph at lines 2874--2881
 \TU/LinuxLibertineO(0)/m/n/12 nham sido motivadas por oportunismo, funcionando
  []
 
@@ -2010,24 +2014,24 @@ Overfull \vbox (16.65201pt too high) has occurred while \output is active []
 [125] [126] [127] [128
 
 ] [129] [130] [131]
-Overfull \hbox (11.37202pt too wide) in paragraph at lines 3490--3493
+Overfull \hbox (11.37202pt too wide) in paragraph at lines 3489--3492
 []\TU/LinuxLibertineO(0)/m/sc/12 ezell\TU/LinuxLibertineO(0)/m/n/12 , Margaret 
 J. M. “Reading Pseudonyms in Seventeenth-
  []
 
 [132] [133] [134]
-Overfull \hbox (1.5027pt too wide) in paragraph at lines 3623--3626
+Overfull \hbox (1.5027pt too wide) in paragraph at lines 3622--3625
 []\TU/LinuxLibertineO(0)/m/sc/12 picchio\TU/LinuxLibertineO(0)/m/n/12 , Luciana
  Stegagno. “Chuva Oblíqua: dall’Infinito
  []
 
 [135] [136]
-Underfull \hbox (badness 10000) in paragraph at lines 3682--3683
+Underfull \hbox (badness 10000) in paragraph at lines 3681--3682
 
  []
 
 
-Overfull \hbox (4.8016pt too wide) in paragraph at lines 3712--3715
+Overfull \hbox (4.8016pt too wide) in paragraph at lines 3711--3714
 \TU/LinuxLibertineO(0)/m/n/12 Disponível em: <https://nyti.ms/2QgwLYV>. Acesso
  []
 
@@ -2077,4 +2081,4 @@ Here is how much of TeX's memory you used:
  1372 hyphenation exceptions out of 8191
  48i,12n,86p,10384b,602s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on LIVRO.xdv (148 pages, 2486144 bytes).
+Output written on LIVRO.xdv (148 pages, 2483176 bytes).
