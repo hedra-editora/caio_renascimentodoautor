@@ -1,14 +1,14 @@
 # Fdb version 3
-["makeindex LIVRO.idx"] 1553533856 "LIVRO.idx" "LIVRO.ind" "LIVRO" 1553533861
-  "LIVRO.idx" 1553533860 19551 286b6f15274e0d7ca39017689d17a802 ""
+["makeindex LIVRO.idx"] 1553533856 "LIVRO.idx" "LIVRO.ind" "LIVRO" 1553534188
+  "LIVRO.idx" 1553534187 19551 286b6f15274e0d7ca39017689d17a802 ""
   (generated)
-  "LIVRO.ilg"
   "LIVRO.ind"
-["xdvipdfmx"] 1553533860 "LIVRO.xdv" "LIVRO.pdf" "LIVRO" 1553533861
-  "LIVRO.xdv" 1553533860 2483176 d7c731b8c1b38fd98fb06f9ab294a32f "xelatex"
+  "LIVRO.ilg"
+["xdvipdfmx"] 1553534187 "LIVRO.xdv" "LIVRO.pdf" "LIVRO" 1553534188
+  "LIVRO.xdv" 1553534187 2483176 0693c4586c5639b754f29ac4be2b639e "xelatex"
   (generated)
   "LIVRO.pdf"
-["xelatex"] 1553533857 "LIVRO.tex" "LIVRO.xdv" "LIVRO" 1553533861
+["xelatex"] 1553534184 "LIVRO.tex" "LIVRO.xdv" "LIVRO" 1553534188
   "/home/editorial/texmf/tex/PUBLICIDADE.tex" 1546880324 10259 1701938966898ef399f60163c7ade1a0 ""
   "/home/editorial/texmf/tex/aparatos.sty" 1496083773 909 136995c661119a9437b5451e77fe6935 ""
   "/home/editorial/texmf/tex/commands.sty" 1496083773 0 d41d8cd98f00b204e9800998ecf8427e ""
@@ -168,25 +168,25 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1501615481 32585 d82bbcf7626b7842c87671687479e852 ""
   "/var/lib/texmf/web2c/xetex/xelatex.fmt" 1509478212 4066395 6b322c5d2cda5c7d3fa6f2e6378d2f25 ""
   "INDEX.tex" 1548871298 193 63f0b956b17547cc7aa869168d4265c9 ""
-  "INPUTS.aux" 1553533860 5386 887a0339dcae2a0e9888317d6bd37bd3 ""
+  "INPUTS.aux" 1553534187 5386 887a0339dcae2a0e9888317d6bd37bd3 ""
   "INPUTS.tex" 1545416149 79 d48f79ffa5c872ebfbb4f62c867f5ba2 ""
-  "LIVRO.aux" 1553533860 532 1a937b254dbf99252af2ecf96dd1b2b0 ""
-  "LIVRO.ind" 1553533860 6137 9b631957cd7d4a26e34424dd44bbe1a5 "makeindex LIVRO.idx"
+  "LIVRO.aux" 1553534187 532 1a937b254dbf99252af2ecf96dd1b2b0 ""
+  "LIVRO.ind" 1553534187 6137 9b631957cd7d4a26e34424dd44bbe1a5 "makeindex LIVRO.idx"
   "LIVRO.tex" 1548344580 3039 77077ec667b75cc4d9fc34134a89e47f ""
-  "LIVRO.toc" 1553533860 3251 439b22c44d6dd63dfb074247b45d1bc2 ""
+  "LIVRO.toc" 1553534187 3251 439b22c44d6dd63dfb074247b45d1bc2 ""
   "NOTA.tex" 1546882323 4656 3f49ba681582826a7efd499304f82bcd ""
   "ORIGINAL.tex" 1553533849 229549 134cc6acdb7db0100c977d1c9fe99066 ""
   "PRETAS.tex" 1548344572 1588 f35a272888e7699d40e9ecdc7ffc4737 ""
-  "PUBLICIDADE.aux" 1553533860 1709 d6ad8a9c4a6ce91cf33c8c3d1d623e36 ""
+  "PUBLICIDADE.aux" 1553534187 1709 d6ad8a9c4a6ce91cf33c8c3d1d623e36 ""
   "fichatecnica.sty" 1545406136 2364 c992d6ce5affda1251470c46d5aca786 ""
   "fronthedra.tex" 1546880131 3884 ec6530ed2b948467b570684793758503 ""
-  "gitrevisioninfo.sty" 1553533853 35 ec77e9f9ecb2a477bf1c83d11706bf60 ""
+  "gitrevisioninfo.sty" 1553534184 35 4eb9fe5676d5bee6b51e122a90a2ab7a ""
   "hedraextra.sty" 1541689799 6390 65a9b8588c7612c4e2512564697fa8c1 ""
   (generated)
-  "LIVRO.log"
-  "INPUTS.aux"
   "LIVRO.aux"
+  "LIVRO.log"
+  "PUBLICIDADE.aux"
+  "INPUTS.aux"
   "LIVRO.toc"
   "LIVRO.idx"
-  "PUBLICIDADE.aux"
   "LIVRO.xdv"
